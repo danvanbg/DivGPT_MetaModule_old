@@ -3,4 +3,8 @@
 ./app/validate_key.py
 ./api_key.txt
 ./log.json
-
+api_key.txt
+log.json
+.gitignore
+gen_key.py
+api_key.txt
